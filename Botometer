@@ -1,8 +1,0 @@
-## Result
-
-[
-    {"botscore": 0.2, "tweet_id": null, "user_id": 353534334},
-    {"botscore": 0.12,  "tweet_id": null, "user_id": 34535343566},
-    {"botscore": 0.03, "tweet_id": null, "user_id": 3457764563}
-
-Add the user id to the program. The higher scores show, the higher chances that the user could be a bot.
