@@ -18,3 +18,4 @@ Find the average score.
 As a user who wants to buy a house in Boston, I want to see the satifaciton score of this area.
 As a investment forporation, I want to anaylze the houses value in Bosotn according to if people like living in Boston or not.
 
+## 
