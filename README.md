@@ -18,4 +18,6 @@ Find the average score.
 As a user who wants to buy a house in Boston, I want to see the satifaciton score of this area.
 As a investment forporation, I want to anaylze the houses value in Bosotn according to if people like living in Boston or not.
 
-## 
+## Explanation
+
+This project collects recent 100 tweets. According to analyzing the words, a score is generated. It is in range -1 to 1 (from most negative to most positive). I calculate the sum of the score and devide the number of tweets, then I get the satisfaction of the keyword. 
